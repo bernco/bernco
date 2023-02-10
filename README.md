@@ -1,9 +1,9 @@
 # Moin 😉, hello 👋 I'm Chisom
 
-- 🔭 I’m currently working on a couple of projects which encompases both backend and frontend.
-- 🌱 I’m currently learning ML, Fullstack web dev with some Web3 spice.
-- 💬 Ask me about: Flutter Development including automation via CI/CD pipelines.
-- 🔆 I plan to pull out a full dev platform **Berncosoft** with AI technologies (under design)
+- 🔭 I am currently engaged in a few projects that involve both the backend and frontend aspects.
+- 🌱 I am currently gaining knowledge and skills in Machine Learning, Full Stack Web Development with a touch of Web3 technology.
+- 💬 Feel free to ask me about Flutter Development, including automation through Continuous Integration/Continuous Deployment pipelines.
+- 🔆 I am working towards launching a complete development platform named **Berncosoft** that incorporates AI technologies, which are currently under design.
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernco&label=Profile%20views&color=0e75b6&style=flat" alt="bernco" /> </p>
 
@@ -19,8 +19,8 @@
  
   ![status](https://badge.stateful.com/Leo-Chan01/dnd.svg)
 
-## My current tech stack
-To see more details on my tech stack, click [here](https://chisombernco.com).
+## The technology stack I am currently using.
+For a closer look at my technology stack, please view. [my website](https://chisombernco.com).
 
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter,git,github,py,firebase,vscode,html,css,javascript,graphql,solidity,tensorflow,vscode,aws,docker,react,gcp,nodejs,bootstrap,express,gradle,java,jenkins,matlab,mongodb,mysql,octave,redux,)](https://skillicons.dev)
