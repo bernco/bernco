@@ -5,7 +5,7 @@
 - 💬 Feel free to ask me about Flutter Development, including automation through Continuous Integration/Continuous Deployment pipelines.
 - 🔆 I am working towards launching a complete development platform named **Berncosoft** that incorporates AI technologies, which are currently under design.
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernco&label=Profile%20views&color=0e75b6&style=flat" alt="bernco" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernco&label=Visitors&color=0e75b6&style=flat" alt="bernco" /> </p>
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bernco" alt="bernco" /></a> </p>
   
